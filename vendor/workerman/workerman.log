@@ -1,0 +1,249 @@
+2018-06-13 03:21:52 pid:1 Worker process terminated
+2018-06-14 01:50:59 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined function Workerman\Lib\pcntl_alarm() in D:\MyJob\project\workerman-frame\vendor\workerman\workerman\Lib\Timer.php on line 173"
+2018-06-14 08:40:00 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:01 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:01 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:02 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:02 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:03 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:03 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:04 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:04 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:40:05 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:05 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:06 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:06 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:15 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:16 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:16 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:17 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:17 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:18 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:18 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:19 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:19 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:20 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:20 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:21 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:21 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:21 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:41:21 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:22 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:41:22 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:25 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:25 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:48 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:48 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:43:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 53"
+2018-06-14 08:49:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:49:56 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:49:57 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:49:58 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:49:59 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:00 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:01 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:02 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:03 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:04 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:05 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:06 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:07 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:08 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:09 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:10 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusGateway:0
+2018-06-14 08:50:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:53 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:53 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:54 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:54 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:55 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:55 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:56 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:56 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:57 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:57 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:58 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:58 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:59 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:50:59 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:00 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:22 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:22 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:23 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:23 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:25 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:25 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:51:32 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:32 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:33 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:33 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:34 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:34 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:35 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:35 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:51:36 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-14 08:52:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:27 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:27 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:28 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:28 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:29 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:29 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:30 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-14 08:52:30 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ']' in D:\MyJob\project\workerman-frame\Events.php on line 64"
+2018-06-19 01:25:03 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:06 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:14 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:14 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-06-19 01:25:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:16 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:17 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:17 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:18 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:18 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:19 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:19 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:20 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:20 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:21 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:21 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:21 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:22 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:22 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:23 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:23 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:24 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:24 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:25 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:25 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:26 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:26 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:27 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:27 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:27 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:28 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:28 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:28 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:28 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:29 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:29 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:29 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:29 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:30 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:30 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:30 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:30 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:31 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:31 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-06-19 01:25:31 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:32 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:32 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:33 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:25:33 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 102"
+2018-06-19 01:28:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:53 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:53 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:54 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:28:54 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 104"
+2018-06-19 01:33:34 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"
+2018-06-19 01:33:34 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"
+2018-06-19 01:33:35 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"
+2018-06-19 01:33:35 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"
+2018-06-19 01:33:36 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"
+2018-06-19 01:33:36 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\MyJob\project\workerman-frame\Events.php on line 105"

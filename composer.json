@@ -1,0 +1,10 @@
+{
+    "name"  : "workerman/workerman-chat-for-win",
+    "keywords": ["distributed","chatroom"],
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/gateway-worker" : ">=3.0.0",
+        "workerman/phpsocket.io" : ">1.0.0"
+    }
+}

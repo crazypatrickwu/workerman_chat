@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+this is index page
+</body>
+</html>
+<script>
+    var ws = new WebSocket('ws://127.0.0.1:2000');
+    ws.onopen = function(){
+        console.log('连接成功');
+        ws.send('tom');
+        console.log('发送字符串tom');
+    };
+
+    ws.onmessage = function(e){
+        console.log(e);
+        console.log('收到消息' + e.data);
+    }
+</script>

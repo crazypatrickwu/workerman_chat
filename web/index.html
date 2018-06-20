@@ -1,0 +1,58 @@
+    <!DOCTYPE html>  
+    <html lang="en">  
+      
+    <head>  
+        <meta charset="UTF-8">  
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">  
+        <title>chat-room</title>  
+        <link rel="stylesheet" href="css/index.css">  
+    </head>  
+    <style type="text/css">
+    .private-box{
+        width : 80px;
+    }
+    </style>
+    <body>  
+        <div class="chat-box">  
+            <!--聊天框头部-->  
+            <div class="chat-header">  
+                <div class="button-box log-out" style="text-align: center">  
+                    聊天室
+                </div>  
+            </div>  
+            <!--聊天框主体-->  
+            <div class="chat-body">  
+                <!--聊天框左侧-->  
+                <div class="chat-body-left">  
+                    <!--聊天框左侧聊天内容-->  
+                    <div class="chat-content"></div>  
+                    <!--聊天框左侧聊天输入框-->  
+                    <div class="chat-edit">  
+                        <input type="button" class="login-button" value="连接">
+                        <input type="text" class="edit-box" placeholder="Please Type You Message" maxlength="15">
+                        <input type="button" class="edit-button" value="SEND">  
+                    </div>  
+                </div>  
+                <!--聊天框右侧-->  
+                <div class="chat-body-right">  
+                    <!--聊天框右侧统计人数-->  
+                    <div class="online-count">Online:0</div>  
+                    聊天框右侧用户名  
+                    <div class="user-name">user-name</div>  
+                    聊天框右侧头像  
+                    <img class="user-img" />  
+                    <div class="user-name">
+                        <select class="private-box" name="private">
+                            <option value="0">广播</option>
+                        </select> 
+                    </div>
+                </div>  
+            </div>  
+        </div>  
+    </body>  
+      
+    <script src="js/socket.io.js"></script>  
+    <script src="js/index.js"></script>  
+   <!--  <script type="text/javascript" src="https://cdn.socket.io/socket.io-1.3.5.js"></script> -->
+    </html>  
