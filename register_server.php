@@ -14,7 +14,7 @@ $register = new Register("text://0.0.0.0:3535");
 
 $register->name = 'RegGateway';
 
-$register->count = 1;
+$register->count = 4;
 
 if(!defined('GLOBAL_START'))
 {

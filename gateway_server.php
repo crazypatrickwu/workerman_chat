@@ -10,7 +10,7 @@ require_once __DIR__ . '/vendor/autoload.php';
  * Worker进程负责处理实际的业务逻辑，并将结果推送给对应的客户端
  */
 
-$gateway = new Gateway("websocket://127.0.0.1:3434");
+$gateway = new Gateway("websocket://0.0.0.0:3434");
 
 $gateway->name = 'WsGateway';
 

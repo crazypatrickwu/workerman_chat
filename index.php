@@ -2,7 +2,7 @@
 /**
  * 加载workman的内容
  */
-use Workerman\worker;
+use Workerman\Worker;
 use Workerman\WebServer;
 
 require_once __DIR__ . '/vendor/autoload.php';
