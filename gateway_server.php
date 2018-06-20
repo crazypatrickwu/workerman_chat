@@ -14,7 +14,7 @@ $gateway = new Gateway("websocket://127.0.0.1:3434");
 
 $gateway->name = 'WsGateway';
 
-$gateway->registerAddress = '127.0.0.1:3535';
+$gateway->registerAddress = '0.0.0.0:3535';
 
 $gateway->count = 4;
 

@@ -7,7 +7,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 /**
  * 设置一个web服务器
  */
-$webServer = new WebServer('http://127.0.0.1:3333');
+$webServer = new WebServer('http://0.0.0.0:3333');
 
 //添加根路径
 $webServer->addRoot('localhost' , __DIR__ . '/web');
@@ -16,7 +16,7 @@ $webServer->addRoot('localhost' , __DIR__ . '/web');
 $webServer->name = 'WebHome';
 
 //可以设置虚拟主机
-$webServer->addRoot('win.qiligame.com' , __DIR__ . '/web');
+// $webServer->addRoot('win.qiligame.com' , __DIR__ . '/web');
 
 //设置进程
 $webServer->count = 3;

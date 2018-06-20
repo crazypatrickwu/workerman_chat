@@ -10,7 +10,7 @@ require_once __DIR__ . '/vendor/autoload.php';
  * 就可以连接并通讯了
  */
 // register 服务必须是text协议
-$register = new Register("text://127.0.0.1:3535");
+$register = new Register("text://0.0.0.0:3535");
 
 $register->name = 'RegGateway';
 

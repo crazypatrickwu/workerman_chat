@@ -7,7 +7,7 @@ use Workerman\Lib\Timer;
 
 require_once  __DIR__ . '/vendor/autoload.php';
 
-$worker = new Worker('websocket://127.0.0.1:3434');
+$worker = new Worker('websocket://0.0.0.0:3434');
 
 $worker->name = 'websocket';
 
